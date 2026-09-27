@@ -1,0 +1,566 @@
+{
+  "stations": [
+    {
+      "name": "Hazratganj",
+      "district": "Lucknow",
+      "zone": "Lucknow Zone"
+    },
+    {
+      "name": "Gomti Nagar",
+      "district": "Lucknow",
+      "zone": "Lucknow Zone"
+    },
+    {
+      "name": "Alambagh",
+      "district": "Lucknow",
+      "zone": "Lucknow Zone"
+    },
+    {
+      "name": "Sector 20",
+      "district": "Gautam Buddh Nagar",
+      "zone": "Meerut Zone"
+    },
+    {
+      "name": "Sector 58",
+      "district": "Gautam Buddh Nagar",
+      "zone": "Meerut Zone"
+    },
+    {
+      "name": "Kotwali Gorakhpur",
+      "district": "Gorakhpur",
+      "zone": "Gorakhpur Zone"
+    },
+    {
+      "name": "Rustampur",
+      "district": "Gorakhpur",
+      "zone": "Gorakhpur Zone"
+    },
+    {
+      "name": "Kotwali Kanpur",
+      "district": "Kanpur Nagar",
+      "zone": "Kanpur Zone"
+    },
+    {
+      "name": "Swaroop Nagar",
+      "district": "Kanpur Nagar",
+      "zone": "Kanpur Zone"
+    },
+    {
+      "name": "Cantt Varanasi",
+      "district": "Varanasi",
+      "zone": "Varanasi Zone"
+    },
+    {
+      "name": "Bhelupur",
+      "district": "Varanasi",
+      "zone": "Varanasi Zone"
+    },
+    {
+      "name": "Civil Lines Prayagraj",
+      "district": "Prayagraj",
+      "zone": "Prayagraj Zone"
+    }
+  ],
+  "firs": [
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 20\nFIR No.: 004/2024/0072\nDate/Time of FIR: 23/01/2024 11:30\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Geeta Yadav\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 23/05/2024 08:00\nPlace of Occurrence: residence, Sector 20\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Following a heated exchange about a boundary wall, the accused physically attacked the complainant at the residence in view of onlookers.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Sector 20",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Swaroop Nagar\nFIR No.: 009/2024/0032\nDate/Time of FIR: 11/01/2024 12:15\nAct & Sections: IPC 392, 397\nComplainant Name: Priya Srivastava\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 24/04/2024 18:00\nPlace of Occurrence: colony gate, Swaroop Nagar\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: Accused operated in pairs on a motorcycle, targeting pedestrians walking alone near the colony gate during evening hours.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 11000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Swaroop Nagar",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0015\nDate/Time of FIR: 10/02/2024 18:45\nAct & Sections: IPC 384, 506\nComplainant Name: Rekha Gupta\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 25/01/2024 09:00\nPlace of Occurrence: wholesale stall, Gomti Nagar\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: Accused made anonymous calls from unregistered numbers demanding a one-time lump-sum payment from the wholesale stall, threatening vandalism if refused.\nAccused Details:\n1) Ashok Singh, phone 9812865680\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0068\nDate/Time of FIR: 15/12/2024 08:45\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Rajesh Pandey\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 12/07/2024 20:45\nPlace of Occurrence: toll plaza, Gomti Nagar\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near toll plaza, which on inspection was found to contain a narcotic substance.\nModus Operandi: A tip-off led a patrol team to intercept the accused carrying narcotics concealed under vegetables in a handcart close to the toll plaza.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Approx. 99 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 58\nFIR No.: 005/2024/0902\nDate/Time of FIR: 14/11/2024 18:00\nAct & Sections: IPC 419, 420, 468, 471; IT Act 66C, 66D\nComplainant Name: Ramesh Sharma\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 13/07/2024 15:00\nPlace of Occurrence: Complainant's residence, Sector 58\nBrief Facts: Complainant reported an unauthorized UPI debit from their savings account shortly after receiving a call from an unknown number regarding their bank KYC.\nModus Operandi: Accused impersonated a bank customer-care representative over phone, claimed the victim's debit card KYC had expired, and talked the victim through 'verification steps' that ended with the victim reading out the OTP, which was used to push a UPI transaction from their account.\nAccused Details:\n1) Mohammad Aslaam, phone 9876500011, vehicle UP32XY7788\n\nProperty/Loss: Rs. 75000 fraudulently transferred via UPI.\nAction Taken: Case registered under Cyber Cell coordination; call detail records requisitioned.\n",
+      "station_hint": "Sector 58",
+      "_note": "syndicate-thread"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0041\nDate/Time of FIR: 25/05/2024 19:15\nAct & Sections: IPC 379, 380\nComplainant Name: Pooja Gupta\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 08/03/2024 16:15\nPlace of Occurrence: shop, Alambagh\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their shop and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: The shop was broken into while empty; entry was gained via the main door lock, and movable valuables were removed before the household returned.\nAccused Details:\n1) Anita Tiwari, phone 9372700099\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 18000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0036\nDate/Time of FIR: 09/11/2024 14:00\nAct & Sections: General Diary - Missing Person\nComplainant Name: Kavita Gupta\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 07/09/2024 12:15\nPlace of Occurrence: home, Cantt Varanasi\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Neighbours reported seeing the person near home before contact was lost; description on record notes a school uniform.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0038\nDate/Time of FIR: 09/09/2024 14:30\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Priya Tiwari\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 15/01/2024 11:15\nPlace of Occurrence: online, Gomti Nagar\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: The accused posed as a bank relationship manager on a social-media page and convinced the victim to transfer funds into an account that turned out to be fraudulent.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Rs. 34000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 20\nFIR No.: 004/2024/0905\nDate/Time of FIR: 21/05/2024 14:00\nAct & Sections: IPC 419, 420, 468, 471; IT Act 66C, 66D\nComplainant Name: Vikas Agarwal\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 02/03/2024 16:00\nPlace of Occurrence: Complainant's residence, Sector 20\nBrief Facts: Complainant reported an unauthorized UPI debit from their savings account shortly after receiving a call from an unknown number regarding their bank KYC.\nModus Operandi: Caller posed as a bank/RBI official, informed the victim of a fraudulent KYC block on their account, and instructed them to share the OTP received via SMS to 'reverse' the block — the OTP was then used to authorize a UPI transfer out of the victim's account.\nAccused Details:\n1) Irfaan Qureshi, alias Bhoora, phone 9970878589\n\nProperty/Loss: Rs. 54000 fraudulently transferred via UPI.\nAction Taken: Case registered under Cyber Cell coordination; call detail records requisitioned.\n",
+      "station_hint": "Sector 20",
+      "_note": "syndicate-thread"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Bhelupur\nFIR No.: 011/2024/0084\nDate/Time of FIR: 26/05/2024 13:15\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Vikram Pandey\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 14/05/2024 20:15\nPlace of Occurrence: online, Bhelupur\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: The accused posed as a bank relationship manager on a messaging app and convinced the victim to transfer funds into an account that turned out to be fraudulent.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Rs. 9000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Bhelupur",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0067\nDate/Time of FIR: 21/07/2024 19:45\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Sanjay Gupta\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 01/05/2024 10:30\nPlace of Occurrence: online, Cantt Varanasi\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: A a social-media page advertisement promising guaranteed high returns led the victim to a fraudulent trading platform where deposited funds could never be withdrawn.\nAccused Details:\n1) Geeta Yadav, phone 9121024474\n\nProperty/Loss: Rs. 53000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Rustampur\nFIR No.: 007/2024/0079\nDate/Time of FIR: 07/07/2024 06:45\nAct & Sections: IPC 384, 506\nComplainant Name: Manoj Singh\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 09/09/2024 11:00\nPlace of Occurrence: wholesale stall, Rustampur\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: The complainant received a series of threatening calls insisting on a one-time lump-sum payment from the wholesale stall, with warnings of consequences for non-payment.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Rustampur",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0080\nDate/Time of FIR: 28/02/2024 07:15\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Pooja Pandey\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 02/08/2024 11:30\nPlace of Occurrence: bus stand, Cantt Varanasi\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near bus stand, which on inspection was found to contain a narcotic substance.\nModus Operandi: During a routine vehicle check near the bus stand, officers recovered a concealed narcotic package hidden inside a travel bag from the accused's possession.\nAccused Details:\n1) Ramesh Gupta, phone 9003970036\n\nProperty/Loss: Approx. 797 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 20\nFIR No.: 004/2024/0033\nDate/Time of FIR: 18/06/2024 11:45\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Sanjay Yadav\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 14/12/2024 14:00\nPlace of Occurrence: workplace, Sector 20\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Following a heated exchange about a family land dispute, the accused physically attacked the complainant at the workplace in view of onlookers.\nAccused Details:\n1) Vikas Mishra, phone 9101671081\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Sector 20",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 58\nFIR No.: 005/2024/0017\nDate/Time of FIR: 02/09/2024 18:00\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Arvind Agarwal\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 14/07/2024 13:45\nPlace of Occurrence: workplace, Sector 58\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Following a heated exchange about a parking spot, the accused physically attacked the complainant at the workplace in view of onlookers.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Sector 58",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Prayagraj\nP.S.: Civil Lines Prayagraj\nFIR No.: 012/2024/0003\nDate/Time of FIR: 11/05/2024 09:15\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Rajesh Mishra\nComplainant Address: 12 Civil Lines\nDate/Time of Occurrence: 21/09/2024 21:30\nPlace of Occurrence: toll plaza, Civil Lines Prayagraj\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near toll plaza, which on inspection was found to contain a narcotic substance.\nModus Operandi: Accused was found transporting a concealed narcotic package concealed under vegetables in a handcart during a routine checkpoint near the toll plaza.\nAccused Details:\n1) Rekha Chaudhary, phone 9637134073\n\nProperty/Loss: Approx. 331 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Civil Lines Prayagraj",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 58\nFIR No.: 005/2024/0090\nDate/Time of FIR: 08/11/2024 16:00\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Arvind Pandey\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 06/10/2024 16:15\nPlace of Occurrence: railway crossing, Sector 58\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near railway crossing, which on inspection was found to contain a narcotic substance.\nModus Operandi: During a routine vehicle check near the railway crossing, officers recovered a concealed narcotic package hidden inside a travel bag from the accused's possession.\nAccused Details:\n1) Sunita Srivastava, phone 9819464404\n\nProperty/Loss: Approx. 616 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Sector 58",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0088\nDate/Time of FIR: 25/07/2024 21:30\nAct & Sections: IPC 379, 380\nComplainant Name: Pooja Sharma\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 09/02/2024 13:00\nPlace of Occurrence: godown, Cantt Varanasi\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their godown and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: Accused targeted an unoccupied godown during a festival holiday when the house was locked, forcing open the terrace door before making off with the stolen items.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 35000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0047\nDate/Time of FIR: 06/07/2024 13:00\nAct & Sections: IPC 392, 397\nComplainant Name: Kavita Sharma\nComplainant Address: 12 Civil Lines\nDate/Time of Occurrence: 26/08/2024 06:15\nPlace of Occurrence: street, Hazratganj\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: Accused operated in pairs on a motorcycle, targeting pedestrians walking alone near the street during late night.\nAccused Details:\n1) Geeta Rastogi, phone 9158837178\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 55000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0023\nDate/Time of FIR: 05/04/2024 10:15\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Suresh Yadav\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 17/03/2024 17:30\nPlace of Occurrence: workplace, Hazratganj\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Accused confronted the complainant near a workplace over a family land dispute and assaulted them before being separated by bystanders.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0903\nDate/Time of FIR: 18/02/2024 22:00\nAct & Sections: IPC 419, 420, 468, 471; IT Act 66C, 66D\nComplainant Name: Arvind Sharma\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 14/11/2024 07:00\nPlace of Occurrence: Complainant's residence, Kotwali Gorakhpur\nBrief Facts: Complainant reported an unauthorized UPI debit from their savings account shortly after receiving a call from an unknown number regarding their bank KYC.\nModus Operandi: Fraud call received claiming to be from the victim's bank regarding pending KYC update; caller guided the victim to install a remote-access screen-sharing app 'for verification', then used the session and a follow-up OTP to drain the linked UPI account.\nAccused Details:\n1) M. Aslam, alias Guddu Bhai, phone 9732597943, vehicle UP32XY7788\n\nProperty/Loss: Rs. 55000 fraudulently transferred via UPI.\nAction Taken: Case registered under Cyber Cell coordination; call detail records requisitioned.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "syndicate-thread"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Bhelupur\nFIR No.: 011/2024/0018\nDate/Time of FIR: 13/02/2024 17:00\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Anita Yadav\nComplainant Address: 12 Civil Lines\nDate/Time of Occurrence: 25/04/2024 22:30\nPlace of Occurrence: online, Bhelupur\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: The accused posed as a crypto trading mentor on an unsolicited SMS link and convinced the victim to transfer funds into an account that turned out to be fraudulent.\nAccused Details:\n1) Sunil Sharma, phone 9084570493\n\nProperty/Loss: Rs. 5000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Bhelupur",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0076\nDate/Time of FIR: 16/03/2024 09:00\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Manoj Chaudhary\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 05/04/2024 16:30\nPlace of Occurrence: toll plaza, Hazratganj\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near toll plaza, which on inspection was found to contain a narcotic substance.\nModus Operandi: Accused was found transporting a concealed narcotic package hidden inside a travel bag during a routine checkpoint near the toll plaza.\nAccused Details:\n1) Priya Agarwal, phone 9184593151\n\nProperty/Loss: Approx. 660 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Swaroop Nagar\nFIR No.: 009/2024/0057\nDate/Time of FIR: 13/11/2024 12:45\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Vikram Pandey\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 12/01/2024 06:45\nPlace of Occurrence: local tea stall, Swaroop Nagar\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Accused confronted the complainant near a local tea stall over a loan repayment and assaulted them before being separated by bystanders.\nAccused Details:\n1) Manoj Yadav, phone 9962944802, vehicle UP53EA4891\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Swaroop Nagar",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Kotwali Kanpur\nFIR No.: 008/2024/0075\nDate/Time of FIR: 05/12/2024 14:30\nAct & Sections: General Diary - Missing Person\nComplainant Name: Rajesh Sharma\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 21/02/2024 07:30\nPlace of Occurrence: home, Kotwali Kanpur\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Neighbours reported seeing the person near home before contact was lost; description on record notes a grey kurta.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Kotwali Kanpur",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Kotwali Kanpur\nFIR No.: 008/2024/0078\nDate/Time of FIR: 02/12/2024 10:15\nAct & Sections: IPC 392, 397\nComplainant Name: Anita Singh\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 05/10/2024 14:15\nPlace of Occurrence: flyover underpass, Kotwali Kanpur\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: Accused operated in pairs on a motorcycle, targeting pedestrians walking alone near the flyover underpass during late night.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 41000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Kotwali Kanpur",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0069\nDate/Time of FIR: 09/08/2024 10:45\nAct & Sections: IPC 379, 380\nComplainant Name: Rekha Rastogi\nComplainant Address: 12 Civil Lines\nDate/Time of Occurrence: 24/02/2024 11:30\nPlace of Occurrence: godown, Kotwali Gorakhpur\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their godown and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: Unidentified individual(s) forced the terrace door of the godown during late night and fled with property before being noticed by neighbours.\nAccused Details:\n1) Pooja Rastogi, phone 9796252168\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 13000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0030\nDate/Time of FIR: 08/10/2024 06:00\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Vikas Mishra\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 04/06/2024 12:30\nPlace of Occurrence: bus stand, Gomti Nagar\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near bus stand, which on inspection was found to contain a narcotic substance.\nModus Operandi: A tip-off led a patrol team to intercept the accused carrying narcotics in a parked car close to the bus stand.\nAccused Details:\n1) Priya Srivastava, phone 9111937675, vehicle UP53BF8871\n\nProperty/Loss: Approx. 402 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0016\nDate/Time of FIR: 02/10/2024 07:00\nAct & Sections: IPC 392, 397\nComplainant Name: Deepak Singh\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 25/03/2024 16:15\nPlace of Occurrence: street, Cantt Varanasi\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: The accused pair trailed the complainant from the street during evening hours and snatched their bag at a secluded stretch before fleeing on a motorcycle.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 19000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Prayagraj\nP.S.: Civil Lines Prayagraj\nFIR No.: 012/2024/0020\nDate/Time of FIR: 18/08/2024 22:45\nAct & Sections: General Diary - Missing Person\nComplainant Name: Kavita Gupta\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 02/03/2024 16:00\nPlace of Occurrence: railway station, Civil Lines Prayagraj\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Family last had contact by phone before the person went silent after leaving railway station; was last seen wearing a black jacket.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Civil Lines Prayagraj",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Bhelupur\nFIR No.: 011/2024/0087\nDate/Time of FIR: 14/11/2024 17:30\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Deepak Srivastava\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 19/10/2024 07:15\nPlace of Occurrence: market, Bhelupur\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Following a heated exchange about a parking spot, the accused physically attacked the complainant at the market in view of onlookers.\nAccused Details:\n1) Priya Gupta, phone 9054421420\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Bhelupur",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0901\nDate/Time of FIR: 23/06/2024 11:30\nAct & Sections: IPC 419, 420, 468, 471; IT Act 66C, 66D\nComplainant Name: Arvind Srivastava\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 21/06/2024 15:45\nPlace of Occurrence: Complainant's residence, Hazratganj\nBrief Facts: Complainant reported an unauthorized UPI debit from their savings account shortly after receiving a call from an unknown number regarding their bank KYC.\nModus Operandi: Caller posed as a bank/RBI official, informed the victim of a fraudulent KYC block on their account, and instructed them to share the OTP received via SMS to 'reverse' the block — the OTP was then used to authorize a UPI transfer out of the victim's account.\nAccused Details:\n1) Mohd. Aslam, alias Guddu, phone 9876500011\n\nProperty/Loss: Rs. 56000 fraudulently transferred via UPI.\nAction Taken: Case registered under Cyber Cell coordination; call detail records requisitioned.\n",
+      "station_hint": "Hazratganj",
+      "_note": "syndicate-thread"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0073\nDate/Time of FIR: 07/09/2024 08:00\nAct & Sections: IPC 384, 506\nComplainant Name: Suresh Rastogi\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 09/11/2024 22:30\nPlace of Occurrence: transport depot, Hazratganj\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: The complainant received a series of threatening calls insisting on periodic cash payments from the transport depot, with warnings of consequences for non-payment.\nAccused Details:\n1) Manoj Chaudhary, phone 9171074282, vehicle UP78AD6504\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 58\nFIR No.: 005/2024/0053\nDate/Time of FIR: 10/10/2024 12:30\nAct & Sections: IPC 379, 380\nComplainant Name: Sanjay Srivastava\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 09/06/2024 06:00\nPlace of Occurrence: shop, Sector 58\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their shop and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: Accused targeted an unoccupied shop during the afternoon while residents were at work, forcing open the terrace door before making off with the stolen items.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 39000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Sector 58",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0074\nDate/Time of FIR: 01/02/2024 06:00\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Geeta Singh\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 17/06/2024 07:45\nPlace of Occurrence: online, Gomti Nagar\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: A a video-call group advertisement promising guaranteed high returns led the victim to a fraudulent trading platform where deposited funds could never be withdrawn.\nAccused Details:\n1) Ashok Chaudhary, phone 9917678628\n\nProperty/Loss: Rs. 59000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0019\nDate/Time of FIR: 22/08/2024 18:00\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Neha Gupta\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 21/08/2024 11:45\nPlace of Occurrence: railway crossing, Cantt Varanasi\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near railway crossing, which on inspection was found to contain a narcotic substance.\nModus Operandi: During a routine vehicle check near the railway crossing, officers recovered a concealed narcotic package on a two-wheeler from the accused's possession.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Approx. 498 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 20\nFIR No.: 004/2024/0089\nDate/Time of FIR: 04/01/2024 17:45\nAct & Sections: IPC 384, 506\nComplainant Name: Arvind Sharma\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 20/08/2024 18:15\nPlace of Occurrence: petrol pump, Sector 20\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: A caller claiming affiliation with a local group repeatedly pressured the owner of the petrol pump for periodic cash payments under threat of business disruption.\nAccused Details:\n1) Neha Mishra, phone 9307229154\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Sector 20",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0024\nDate/Time of FIR: 23/04/2024 14:45\nAct & Sections: General Diary - Missing Person\nComplainant Name: Sunil Rastogi\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 23/05/2024 18:00\nPlace of Occurrence: railway station, Gomti Nagar\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Family last had contact by phone before the person went silent after leaving railway station; was last seen wearing a school uniform.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0052\nDate/Time of FIR: 06/11/2024 11:00\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Geeta Tiwari\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 17/02/2024 15:15\nPlace of Occurrence: local tea stall, Alambagh\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Following a heated exchange about a loan repayment, the accused physically attacked the complainant at the local tea stall in view of onlookers.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0028\nDate/Time of FIR: 26/06/2024 09:30\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Deepak Yadav\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 19/05/2024 18:00\nPlace of Occurrence: interstate border post, Alambagh\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near interstate border post, which on inspection was found to contain a narcotic substance.\nModus Operandi: Accused was found transporting a concealed narcotic package hidden inside a travel bag during a routine checkpoint near the interstate border post.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Approx. 71 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0025\nDate/Time of FIR: 27/08/2024 10:45\nAct & Sections: IPC 379, 380\nComplainant Name: Sanjay Srivastava\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 15/11/2024 10:30\nPlace of Occurrence: residence, Cantt Varanasi\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their residence and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: The residence was broken into while empty; entry was gained via the backyard grille, and movable valuables were removed before the household returned.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 21000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0022\nDate/Time of FIR: 18/05/2024 16:45\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Rekha Chaudhary\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 04/08/2024 15:00\nPlace of Occurrence: online, Alambagh\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: The accused posed as a mutual-fund agent on a video-call group and convinced the victim to transfer funds into an account that turned out to be fraudulent.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Rs. 8000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 58\nFIR No.: 005/2024/0002\nDate/Time of FIR: 21/07/2024 10:30\nAct & Sections: IPC 379, 380\nComplainant Name: Sanjay Mishra\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 13/12/2024 08:45\nPlace of Occurrence: shop, Sector 58\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their shop and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: The shop was broken into while empty; entry was gained via the backyard grille, and movable valuables were removed before the household returned.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 54000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Sector 58",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 58\nFIR No.: 005/2024/0062\nDate/Time of FIR: 21/12/2024 21:45\nAct & Sections: IPC 384, 506\nComplainant Name: Pooja Gupta\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 02/01/2024 10:30\nPlace of Occurrence: business establishment, Sector 58\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: The complainant received a series of threatening calls insisting on a one-time lump-sum payment from the business establishment, with warnings of consequences for non-payment.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Sector 58",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Rustampur\nFIR No.: 007/2024/0008\nDate/Time of FIR: 19/10/2024 16:15\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Arvind Sharma\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 18/01/2024 07:45\nPlace of Occurrence: residence, Rustampur\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Accused confronted the complainant near a residence over a parking spot and assaulted them before being separated by bystanders.\nAccused Details:\n1) Rekha Srivastava, phone 9415407550\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Rustampur",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Rustampur\nFIR No.: 007/2024/0060\nDate/Time of FIR: 08/05/2024 09:15\nAct & Sections: General Diary - Missing Person\nComplainant Name: Deepak Yadav\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 17/11/2024 08:30\nPlace of Occurrence: workplace, Rustampur\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case, no known modus operandi. Last seen leaving workplace wearing a black jacket.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Rustampur",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Rustampur\nFIR No.: 007/2024/0085\nDate/Time of FIR: 07/02/2024 06:00\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Arvind Tiwari\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 15/07/2024 15:30\nPlace of Occurrence: online, Rustampur\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: Victim was added to a a video-call group group promoted as an exclusive trading community, and after initial small 'profits' were shown, was persuaded to deposit a larger sum that was never returned.\nAccused Details:\n1) Manoj Rastogi, phone 9609887608\n\nProperty/Loss: Rs. 15000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Rustampur",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0026\nDate/Time of FIR: 11/09/2024 06:30\nAct & Sections: IPC 392, 397\nComplainant Name: Suresh Rastogi\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 28/04/2024 22:30\nPlace of Occurrence: bus stop, Kotwali Gorakhpur\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: Accused operated in pairs on a motorcycle, targeting pedestrians walking alone near the bus stop during dusk.\nAccused Details:\n1) Arvind Singh, phone 9442468253\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 42000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0049\nDate/Time of FIR: 04/01/2024 14:30\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Rajesh Chaudhary\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 05/12/2024 21:45\nPlace of Occurrence: online, Kotwali Gorakhpur\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: Victim was added to a a social-media page group promoted as an exclusive trading community, and after initial small 'profits' were shown, was persuaded to deposit a larger sum that was never returned.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Rs. 54000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Prayagraj\nP.S.: Civil Lines Prayagraj\nFIR No.: 012/2024/0009\nDate/Time of FIR: 14/12/2024 20:00\nAct & Sections: IPC 379, 380\nComplainant Name: Rekha Tiwari\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 20/09/2024 20:15\nPlace of Occurrence: shop, Civil Lines Prayagraj\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their shop and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: Unidentified individual(s) forced the rear window of the shop during early morning hours and fled with property before being noticed by neighbours.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 7000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Civil Lines Prayagraj",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0056\nDate/Time of FIR: 23/03/2024 15:00\nAct & Sections: General Diary - Missing Person\nComplainant Name: Manoj Verma\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 26/11/2024 13:45\nPlace of Occurrence: workplace, Cantt Varanasi\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Family last had contact by phone before the person went silent after leaving workplace; was last seen wearing a black jacket.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0071\nDate/Time of FIR: 04/06/2024 11:15\nAct & Sections: IPC 379, 380\nComplainant Name: Sunil Verma\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 11/02/2024 15:15\nPlace of Occurrence: godown, Gomti Nagar\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their godown and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: Unidentified individual(s) forced the rear window of the godown during early morning hours and fled with property before being noticed by neighbours.\nAccused Details:\n1) Suresh Srivastava, phone 9588973831\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 9000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Prayagraj\nP.S.: Civil Lines Prayagraj\nFIR No.: 012/2024/0046\nDate/Time of FIR: 16/03/2024 21:15\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Sunil Rastogi\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 19/06/2024 16:30\nPlace of Occurrence: residence, Civil Lines Prayagraj\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Accused confronted the complainant near a residence over a family land dispute and assaulted them before being separated by bystanders.\nAccused Details:\n1) Neha Gupta, phone 9288826485\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Civil Lines Prayagraj",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0048\nDate/Time of FIR: 08/03/2024 19:00\nAct & Sections: IPC 379, 380\nComplainant Name: Kavita Singh\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 13/04/2024 12:15\nPlace of Occurrence: residence, Hazratganj\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their residence and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: Unidentified individual(s) forced the terrace door of the residence during early morning hours and fled with property before being noticed by neighbours.\nAccused Details:\n1) Arvind Chaudhary, phone 9983222013, vehicle UP70HB4746\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 60000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Rustampur\nFIR No.: 007/2024/0094\nDate/Time of FIR: 28/04/2024 17:45\nAct & Sections: General Diary - Missing Person\nComplainant Name: Rekha Verma\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 10/11/2024 19:45\nPlace of Occurrence: college, Rustampur\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case, no known modus operandi. Last seen leaving college wearing a black jacket.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Rustampur",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0040\nDate/Time of FIR: 21/09/2024 20:45\nAct & Sections: IPC 392, 397\nComplainant Name: Kavita Yadav\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 17/04/2024 12:30\nPlace of Occurrence: bus stop, Kotwali Gorakhpur\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: The accused pair trailed the complainant from the bus stop during late night and snatched their bag at a secluded stretch before fleeing on a motorcycle.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 24000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0004\nDate/Time of FIR: 01/03/2024 12:15\nAct & Sections: IPC 384, 506\nComplainant Name: Vikram Singh\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 25/04/2024 07:45\nPlace of Occurrence: petrol pump, Hazratganj\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: A caller claiming affiliation with a local group repeatedly pressured the owner of the petrol pump for a fixed monthly 'fee' under threat of business disruption.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Kotwali Kanpur\nFIR No.: 008/2024/0029\nDate/Time of FIR: 14/12/2024 18:30\nAct & Sections: IPC 384, 506\nComplainant Name: Vikram Pandey\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 21/02/2024 21:30\nPlace of Occurrence: transport depot, Kotwali Kanpur\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: A caller claiming affiliation with a local group repeatedly pressured the owner of the transport depot for periodic cash payments under threat of business disruption.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Kotwali Kanpur",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0012\nDate/Time of FIR: 04/05/2024 12:00\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Sunil Singh\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 20/09/2024 18:45\nPlace of Occurrence: bus stand, Alambagh\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near bus stand, which on inspection was found to contain a narcotic substance.\nModus Operandi: Accused was found transporting a concealed narcotic package on a two-wheeler during a routine checkpoint near the bus stand.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Approx. 726 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0066\nDate/Time of FIR: 13/12/2024 15:30\nAct & Sections: General Diary - Missing Person\nComplainant Name: Ashok Pandey\nComplainant Address: 12 Civil Lines\nDate/Time of Occurrence: 11/01/2024 07:15\nPlace of Occurrence: local market, Hazratganj\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Family last had contact by phone before the person went silent after leaving local market; was last seen wearing a school uniform.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Swaroop Nagar\nFIR No.: 009/2024/0043\nDate/Time of FIR: 11/10/2024 16:45\nAct & Sections: IPC 384, 506\nComplainant Name: Pooja Singh\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 06/10/2024 12:30\nPlace of Occurrence: shop, Swaroop Nagar\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: Accused made anonymous calls from unregistered numbers demanding a one-time lump-sum payment from the shop, threatening vandalism if refused.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Swaroop Nagar",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 20\nFIR No.: 004/2024/0051\nDate/Time of FIR: 23/01/2024 17:30\nAct & Sections: IPC 392, 397\nComplainant Name: Vikram Mishra\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 26/12/2024 14:15\nPlace of Occurrence: market lane, Sector 20\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: Two individuals on a two-wheeler intercepted the complainant close to the market lane during evening hours and forcibly took belongings before speeding away.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 9000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Sector 20",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0092\nDate/Time of FIR: 14/07/2024 06:15\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Meena Sharma\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 09/12/2024 19:15\nPlace of Occurrence: local tea stall, Hazratganj\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Accused confronted the complainant near a local tea stall over a boundary wall and assaulted them before being separated by bystanders.\nAccused Details:\n1) Deepak Srivastava, phone 9270741791, vehicle UP32FB3706\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0059\nDate/Time of FIR: 21/05/2024 08:15\nAct & Sections: IPC 392, 397\nComplainant Name: Kavita Mishra\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 27/06/2024 14:45\nPlace of Occurrence: market lane, Hazratganj\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: The accused pair trailed the complainant from the market lane during late night and snatched their bag at a secluded stretch before fleeing on a motorcycle.\nAccused Details:\n1) Ashok Pandey, phone 9116832588, vehicle UP65BG5563\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 5000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 58\nFIR No.: 005/2024/0081\nDate/Time of FIR: 03/09/2024 17:30\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Vikas Tiwari\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 24/01/2024 17:00\nPlace of Occurrence: local tea stall, Sector 58\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: A long-running disagreement over a boundary wall escalated when the accused waylaid the complainant near the local tea stall and struck them repeatedly.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Sector 58",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Bhelupur\nFIR No.: 011/2024/0034\nDate/Time of FIR: 03/12/2024 10:15\nAct & Sections: IPC 379, 380\nComplainant Name: Rajesh Yadav\nComplainant Address: 12 Civil Lines\nDate/Time of Occurrence: 08/07/2024 07:15\nPlace of Occurrence: residence, Bhelupur\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their residence and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: The residence was broken into while empty; entry was gained via the rear window, and movable valuables were removed before the household returned.\nAccused Details:\n1) Kavita Sharma, phone 9242646750\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 57000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Bhelupur",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Rustampur\nFIR No.: 007/2024/0906\nDate/Time of FIR: 27/05/2024 07:15\nAct & Sections: IPC 419, 420, 468, 471; IT Act 66C, 66D\nComplainant Name: Neha Srivastava\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 12/10/2024 07:45\nPlace of Occurrence: Complainant's residence, Rustampur\nBrief Facts: Complainant reported an unauthorized UPI debit from their savings account shortly after receiving a call from an unknown number regarding their bank KYC.\nModus Operandi: Fraud call received claiming to be from the victim's bank regarding pending KYC update; caller guided the victim to install a remote-access screen-sharing app 'for verification', then used the session and a follow-up OTP to drain the linked UPI account.\nAccused Details:\n1) Unknown male, phone 9876500011, description: Male, approx. 28-32 years, thin build, spoke Hindi with an eastern UP accent\n\nProperty/Loss: Rs. 66000 fraudulently transferred via UPI.\nAction Taken: Case registered under Cyber Cell coordination; call detail records requisitioned.\n",
+      "station_hint": "Rustampur",
+      "_note": "syndicate-thread"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0086\nDate/Time of FIR: 24/07/2024 10:45\nAct & Sections: General Diary - Missing Person\nComplainant Name: Sunita Rastogi\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 26/11/2024 17:15\nPlace of Occurrence: workplace, Kotwali Gorakhpur\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Neighbours reported seeing the person near workplace before contact was lost; description on record notes a black jacket.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Prayagraj\nP.S.: Civil Lines Prayagraj\nFIR No.: 012/2024/0001\nDate/Time of FIR: 20/07/2024 11:45\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Meena Mishra\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 02/01/2024 12:45\nPlace of Occurrence: workplace, Civil Lines Prayagraj\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: Accused confronted the complainant near a workplace over a loan repayment and assaulted them before being separated by bystanders.\nAccused Details:\n1) Pooja Chaudhary, phone 9684235693\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Civil Lines Prayagraj",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Swaroop Nagar\nFIR No.: 009/2024/0031\nDate/Time of FIR: 11/04/2024 16:15\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Ramesh Rastogi\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 24/03/2024 13:30\nPlace of Occurrence: online, Swaroop Nagar\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: The accused posed as a mutual-fund agent on a social-media page and convinced the victim to transfer funds into an account that turned out to be fraudulent.\nAccused Details:\n1) Ashok Srivastava, phone 9401763588\n\nProperty/Loss: Rs. 21000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Swaroop Nagar",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Prayagraj\nP.S.: Civil Lines Prayagraj\nFIR No.: 012/2024/0042\nDate/Time of FIR: 10/08/2024 17:30\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Rekha Rastogi\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 01/10/2024 14:30\nPlace of Occurrence: workplace, Civil Lines Prayagraj\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: A long-running disagreement over a family land dispute escalated when the accused waylaid the complainant near the workplace and struck them repeatedly.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Civil Lines Prayagraj",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0013\nDate/Time of FIR: 09/09/2024 14:00\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Meena Singh\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 27/01/2024 10:45\nPlace of Occurrence: online, Gomti Nagar\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: Accused ran an online investment scam via a messaging app, collecting an upfront 'registration fee' from victims before going unreachable.\nAccused Details:\n1) Sunita Gupta, phone 9540465518\n\nProperty/Loss: Rs. 50000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0904\nDate/Time of FIR: 19/04/2024 07:30\nAct & Sections: IPC 419, 420, 468, 471; IT Act 66C, 66D\nComplainant Name: Meena Sharma\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 20/03/2024 22:15\nPlace of Occurrence: Complainant's residence, Gomti Nagar\nBrief Facts: Complainant reported an unauthorized UPI debit from their savings account shortly after receiving a call from an unknown number regarding their bank KYC.\nModus Operandi: Accused impersonated a bank customer-care representative over phone, claimed the victim's debit card KYC had expired, and talked the victim through 'verification steps' that ended with the victim reading out the OTP, which was used to push a UPI transaction from their account.\nAccused Details:\n1) Irfan Qureshi, phone 9437950956\n\nProperty/Loss: Rs. 36000 fraudulently transferred via UPI.\nAction Taken: Case registered under Cyber Cell coordination; call detail records requisitioned.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "syndicate-thread"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0065\nDate/Time of FIR: 27/05/2024 16:30\nAct & Sections: IPC 392, 397\nComplainant Name: Rajesh Srivastava\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 14/09/2024 09:30\nPlace of Occurrence: park, Hazratganj\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: Two individuals on a two-wheeler intercepted the complainant close to the park during evening hours and forcibly took belongings before speeding away.\nAccused Details:\n1) Priya Tiwari, phone 9252359285\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 37000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0010\nDate/Time of FIR: 04/04/2024 19:15\nAct & Sections: General Diary - Missing Person\nComplainant Name: Neha Chaudhary\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 07/11/2024 14:45\nPlace of Occurrence: workplace, Gomti Nagar\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case, no known modus operandi. Last seen leaving workplace wearing a school uniform.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Bhelupur\nFIR No.: 011/2024/0027\nDate/Time of FIR: 21/03/2024 08:15\nAct & Sections: IPC 384, 506\nComplainant Name: Vikas Chaudhary\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 07/12/2024 17:45\nPlace of Occurrence: business establishment, Bhelupur\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: A caller claiming affiliation with a local group repeatedly pressured the owner of the business establishment for a one-time lump-sum payment under threat of business disruption.\nAccused Details:\n1) Meena Singh, phone 9487604450, vehicle UP53BF1852\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Bhelupur",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Swaroop Nagar\nFIR No.: 009/2024/0006\nDate/Time of FIR: 10/03/2024 06:45\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Neha Pandey\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 16/06/2024 07:30\nPlace of Occurrence: online, Swaroop Nagar\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: A a messaging app advertisement promising guaranteed high returns led the victim to a fraudulent trading platform where deposited funds could never be withdrawn.\nAccused Details:\n1) Geeta Tiwari, phone 9003088164\n\nProperty/Loss: Rs. 52000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Swaroop Nagar",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 20\nFIR No.: 004/2024/0063\nDate/Time of FIR: 17/11/2024 17:00\nAct & Sections: IPC 379, 380\nComplainant Name: Vikas Singh\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 03/11/2024 07:00\nPlace of Occurrence: godown, Sector 20\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their godown and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: The godown was broken into while empty; entry was gained via the rear window, and movable valuables were removed before the household returned.\nAccused Details:\n1) Rekha Pandey, phone 9789047659\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 26000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Sector 20",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Bhelupur\nFIR No.: 011/2024/0037\nDate/Time of FIR: 11/03/2024 12:45\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Suresh Agarwal\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 27/03/2024 08:15\nPlace of Occurrence: market chowk, Bhelupur\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near market chowk, which on inspection was found to contain a narcotic substance.\nModus Operandi: A tip-off led a patrol team to intercept the accused carrying narcotics hidden inside a travel bag close to the market chowk.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Approx. 301 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Bhelupur",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0064\nDate/Time of FIR: 15/11/2024 16:00\nAct & Sections: IPC 384, 506\nComplainant Name: Kavita Srivastava\nComplainant Address: 45 Nehru Nagar\nDate/Time of Occurrence: 13/03/2024 12:15\nPlace of Occurrence: shop, Kotwali Gorakhpur\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: A caller claiming affiliation with a local group repeatedly pressured the owner of the shop for periodic cash payments under threat of business disruption.\nAccused Details:\n1) Kavita Pandey, phone 9175806023\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0077\nDate/Time of FIR: 02/10/2024 19:30\nAct & Sections: IPC 392, 397\nComplainant Name: Rekha Pandey\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 12/12/2024 17:00\nPlace of Occurrence: market lane, Alambagh\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: Accused operated in pairs on a motorcycle, targeting pedestrians walking alone near the market lane during early morning.\nAccused Details:\n1) Rekha Tiwari, phone 9534329025, vehicle UP32GG3898\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 19000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Prayagraj\nP.S.: Civil Lines Prayagraj\nFIR No.: 012/2024/0035\nDate/Time of FIR: 09/08/2024 12:00\nAct & Sections: General Diary - Missing Person\nComplainant Name: Sunil Agarwal\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 11/08/2024 21:00\nPlace of Occurrence: local market, Civil Lines Prayagraj\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Neighbours reported seeing the person near local market before contact was lost; description on record notes a grey kurta.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Civil Lines Prayagraj",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0007\nDate/Time of FIR: 13/08/2024 11:00\nAct & Sections: General Diary - Missing Person\nComplainant Name: Arvind Verma\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 22/03/2024 12:00\nPlace of Occurrence: home, Hazratganj\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case. Family last had contact by phone before the person went silent after leaving home; was last seen wearing a school uniform.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Bhelupur\nFIR No.: 011/2024/0050\nDate/Time of FIR: 07/09/2024 21:30\nAct & Sections: IPC 384, 506\nComplainant Name: Pooja Yadav\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 23/12/2024 09:00\nPlace of Occurrence: petrol pump, Bhelupur\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: Accused made anonymous calls from unregistered numbers demanding periodic cash payments from the petrol pump, threatening vandalism if refused.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Bhelupur",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0054\nDate/Time of FIR: 11/12/2024 17:30\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Priya Mishra\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 05/10/2024 13:15\nPlace of Occurrence: toll plaza, Hazratganj\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near toll plaza, which on inspection was found to contain a narcotic substance.\nModus Operandi: During a routine vehicle check near the toll plaza, officers recovered a concealed narcotic package concealed under vegetables in a handcart from the accused's possession.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Approx. 413 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0039\nDate/Time of FIR: 24/10/2024 15:45\nAct & Sections: IPC 384, 506\nComplainant Name: Neha Chaudhary\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 08/11/2024 16:15\nPlace of Occurrence: shop, Kotwali Gorakhpur\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: The complainant received a series of threatening calls insisting on periodic cash payments from the shop, with warnings of consequences for non-payment.\nAccused Details:\n1) Vikram Tiwari, phone 9585819376\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Hazratganj\nFIR No.: 001/2024/0044\nDate/Time of FIR: 03/10/2024 11:30\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Manoj Agarwal\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 05/04/2024 14:30\nPlace of Occurrence: toll plaza, Hazratganj\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near toll plaza, which on inspection was found to contain a narcotic substance.\nModus Operandi: A tip-off led a patrol team to intercept the accused carrying narcotics on a two-wheeler close to the toll plaza.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Approx. 320 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Hazratganj",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gautam Buddh Nagar\nP.S.: Sector 20\nFIR No.: 004/2024/0045\nDate/Time of FIR: 27/02/2024 18:00\nAct & Sections: General Diary - Missing Person\nComplainant Name: Anita Chaudhary\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 27/03/2024 20:00\nPlace of Occurrence: workplace, Sector 20\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case, no known modus operandi. Last seen leaving workplace wearing a blue shirt and dark trousers.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Sector 20",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Prayagraj\nP.S.: Civil Lines Prayagraj\nFIR No.: 012/2024/0061\nDate/Time of FIR: 22/02/2024 18:45\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Vikas Mishra\nComplainant Address: 12 Civil Lines\nDate/Time of Occurrence: 08/06/2024 10:00\nPlace of Occurrence: interstate border post, Civil Lines Prayagraj\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near interstate border post, which on inspection was found to contain a narcotic substance.\nModus Operandi: Accused was found transporting a concealed narcotic package in a parked car during a routine checkpoint near the interstate border post.\nAccused Details:\n1) Vikram Pandey, phone 9121751701\n\nProperty/Loss: Approx. 766 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Civil Lines Prayagraj",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0070\nDate/Time of FIR: 21/09/2024 21:15\nAct & Sections: IPC 323, 341, 506\nComplainant Name: Rajesh Chaudhary\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 09/02/2024 06:30\nPlace of Occurrence: market, Cantt Varanasi\nBrief Facts: Complainant alleged that the accused, following a prior dispute, physically assaulted them and issued threats of dire consequences in the presence of witnesses.\nModus Operandi: A long-running disagreement over a boundary wall escalated when the accused waylaid the complainant near the market and struck them repeatedly.\nAccused Details:\n1) Priya Pandey, phone 9967623213, vehicle UP70GB4829\n\nProperty/Loss: No property loss; complainant sustained minor injuries, medico-legal exam conducted.\nAction Taken: Case registered, accused summoned for questioning.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Assault"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0082\nDate/Time of FIR: 22/04/2024 16:00\nAct & Sections: IPC 379, 380\nComplainant Name: Vikas Sharma\nComplainant Address: 23 Ashok Marg\nDate/Time of Occurrence: 15/02/2024 14:30\nPlace of Occurrence: godown, Alambagh\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their godown and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: Accused targeted an unoccupied godown during early morning hours, forcing open the backyard grille before making off with the stolen items.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 5000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Kotwali Kanpur\nFIR No.: 008/2024/0014\nDate/Time of FIR: 16/11/2024 19:45\nAct & Sections: IPC 384, 506\nComplainant Name: Vikas Rastogi\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 13/07/2024 18:15\nPlace of Occurrence: roadside dhaba, Kotwali Kanpur\nBrief Facts: Complainant, a local shop owner, reported receiving repeated calls demanding protection money with threats of harm to their business if payment was not made.\nModus Operandi: The complainant received a series of threatening calls insisting on a one-time lump-sum payment from the roadside dhaba, with warnings of consequences for non-payment.\nAccused Details:\n1) Rekha Rastogi, phone 9071938643\n\nProperty/Loss: No payment made; complainant reported before any transfer occurred.\nAction Taken: Case registered, call tracing initiated.\n",
+      "station_hint": "Kotwali Kanpur",
+      "_note": "noise-Extortion"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Kotwali Kanpur\nFIR No.: 008/2024/0011\nDate/Time of FIR: 09/09/2024 08:30\nAct & Sections: IPC 392, 397\nComplainant Name: Sunita Sharma\nComplainant Address: 34 Indira Nagar\nDate/Time of Occurrence: 09/03/2024 09:15\nPlace of Occurrence: park, Kotwali Kanpur\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: The accused pair trailed the complainant from the park during late night and snatched their bag at a secluded stretch before fleeing on a motorcycle.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 28000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Kotwali Kanpur",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0093\nDate/Time of FIR: 10/08/2024 19:15\nAct & Sections: NDPS Act 8, 20\nComplainant Name: Rekha Yadav\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 27/03/2024 12:15\nPlace of Occurrence: railway crossing, Alambagh\nBrief Facts: Acting on a tip-off, a police patrol intercepted an individual carrying a suspicious package near railway crossing, which on inspection was found to contain a narcotic substance.\nModus Operandi: Accused was found transporting a concealed narcotic package in a parked car during a routine checkpoint near the railway crossing.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Approx. 276 grams of suspected narcotic substance seized.\nAction Taken: Sample sent to FSL for confirmation; accused taken into custody.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Narcotics"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Gomti Nagar\nFIR No.: 002/2024/0055\nDate/Time of FIR: 22/06/2024 20:30\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Priya Sharma\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 02/10/2024 19:45\nPlace of Occurrence: online, Gomti Nagar\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: Victim was added to a a messaging app group promoted as an exclusive trading community, and after initial small 'profits' were shown, was persuaded to deposit a larger sum that was never returned.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: Rs. 60000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Gomti Nagar",
+      "_note": "noise-Cyber Fraud"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Varanasi\nP.S.: Cantt Varanasi\nFIR No.: 010/2024/0021\nDate/Time of FIR: 08/04/2024 22:45\nAct & Sections: IPC 379, 380\nComplainant Name: Pooja Mishra\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 22/02/2024 07:00\nPlace of Occurrence: godown, Cantt Varanasi\nBrief Facts: Complainant reported that unknown person(s) broke the lock of their godown and stole valuables including jewellery and cash while the house was unattended.\nModus Operandi: The godown was broken into while empty; entry was gained via the main door lock, and movable valuables were removed before the household returned.\nAccused Details:\n1) Neha Yadav, phone 9517410813\n\nProperty/Loss: Jewellery and cash worth approximately Rs. 11000.\nAction Taken: Case registered, dog squad and fingerprint team requisitioned.\n",
+      "station_hint": "Cantt Varanasi",
+      "_note": "noise-Theft"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Gorakhpur\nP.S.: Kotwali Gorakhpur\nFIR No.: 006/2024/0091\nDate/Time of FIR: 01/10/2024 22:15\nAct & Sections: IPC 392, 397\nComplainant Name: Anita Pandey\nComplainant Address: 88 Vikas Puri\nDate/Time of Occurrence: 12/08/2024 09:00\nPlace of Occurrence: park, Kotwali Gorakhpur\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: Accused operated in pairs on a motorcycle, targeting pedestrians walking alone near the park during dusk.\nAccused Details:\n1) Kavita Chaudhary, phone 9844577242\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 31000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Kotwali Gorakhpur",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Kotwali Kanpur\nFIR No.: 008/2024/0005\nDate/Time of FIR: 13/10/2024 13:00\nAct & Sections: IPC 392, 397\nComplainant Name: Pooja Rastogi\nComplainant Address: 9 Shastri Nagar\nDate/Time of Occurrence: 08/11/2024 19:30\nPlace of Occurrence: bus stop, Kotwali Kanpur\nBrief Facts: Complainant reported being stopped by two unidentified individuals on a motorcycle who snatched their bag at knifepoint before fleeing the scene.\nModus Operandi: The accused pair trailed the complainant from the bus stop during evening hours and snatched their bag at a secluded stretch before fleeing on a motorcycle.\nAccused Details:\n1) Priya Singh, phone 9104323112\n\nProperty/Loss: Handbag containing cash and a mobile phone, total value approx. Rs. 24000.\nAction Taken: Case registered, area CCTV footage being reviewed.\n",
+      "station_hint": "Kotwali Kanpur",
+      "_note": "noise-Robbery"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Lucknow\nP.S.: Alambagh\nFIR No.: 003/2024/0083\nDate/Time of FIR: 16/08/2024 16:45\nAct & Sections: General Diary - Missing Person\nComplainant Name: Pooja Chaudhary\nComplainant Address: 7 Model Town\nDate/Time of Occurrence: 22/12/2024 09:45\nPlace of Occurrence: railway station, Alambagh\nBrief Facts: Complainant reported that a family member has been missing since the previous evening and has not returned home or answered phone calls.\nModus Operandi: N/A - missing person case, no known modus operandi. Last seen leaving railway station wearing a blue shirt and dark trousers.\nAccused Details:\nUnknown accused person(s) at large.\n\nProperty/Loss: N/A.\nAction Taken: Missing person report circulated to nearby stations; CCTV footage being reviewed.\n",
+      "station_hint": "Alambagh",
+      "_note": "noise-Missing Person"
+    },
+    {
+      "raw_text": "FIRST INFORMATION REPORT\nDistrict: Kanpur Nagar\nP.S.: Swaroop Nagar\nFIR No.: 009/2024/0058\nDate/Time of FIR: 18/05/2024 14:30\nAct & Sections: IPC 420; IT Act 66D\nComplainant Name: Ashok Mishra\nComplainant Address: 56 Rajendra Nagar\nDate/Time of Occurrence: 22/12/2024 21:30\nPlace of Occurrence: online, Swaroop Nagar\nBrief Facts: Complainant reported losing money after clicking a link in a message advertising an investment scheme with unusually high returns.\nModus Operandi: The accused posed as a bank relationship manager on an unsolicited SMS link and convinced the victim to transfer funds into an account that turned out to be fraudulent.\nAccused Details:\n1) Rekha Agarwal, phone 9457123081\n\nProperty/Loss: Rs. 24000 paid as registration/investment fee.\nAction Taken: Case registered, bank account freeze request sent to nodal officer.\n",
+      "station_hint": "Swaroop Nagar",
+      "_note": "noise-Cyber Fraud"
+    }
+  ]
+}

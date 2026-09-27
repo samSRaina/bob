@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "bob-engine-frontend",
+      "runtimeExecutable": "bun",
+      "runtimeArgs": ["run", "--cwd", "C:/Users/Skyworth/Desktop/bob-ai-hackathon-cyber-elevate/src/frontend", "dev"],
+      "port": 5199
+    }
+  ]
+}

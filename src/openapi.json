@@ -1,0 +1,899 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Bob Engine \u2014 FIR Intelligence & Crime Pattern Detector",
+    "description": "Ingests digitized FIRs, resolves repeat offenders and criminal syndicates across police-station and district boundaries, and serves an RBAC-scoped crime-intelligence dashboard. IBM Bob is used exclusively as the FIR extraction copilot; every other engine is deterministic.",
+    "version": "0.1.0"
+  },
+  "paths": {
+    "/health": {
+      "get": {
+        "summary": "Health",
+        "operationId": "health_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "title": "Response Health Health Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/stations": {
+      "get": {
+        "summary": "Get Stations",
+        "operationId": "get_stations_stations_get",
+        "parameters": [
+          {
+            "name": "X-User-Role",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "X-User-Role"
+            }
+          },
+          {
+            "name": "X-User-Station",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "X-User-Station"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/StationOut"
+                  },
+                  "title": "Response Get Stations Stations Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/stations/all": {
+      "get": {
+        "summary": "Get All Stations For Role Switcher",
+        "description": "Unscoped station directory \u2014 feeds the demo Role Switcher dropdown, which needs\nto list every station a judge could pretend to log in as. Not used for data reads.",
+        "operationId": "get_all_stations_for_role_switcher_stations_all_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/StationOut"
+                  },
+                  "type": "array",
+                  "title": "Response Get All Stations For Role Switcher Stations All Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ingest": {
+      "post": {
+        "summary": "Ingest",
+        "operationId": "ingest_ingest_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/IngestRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/IngestResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/detect": {
+      "post": {
+        "summary": "Detect",
+        "operationId": "detect_detect_post",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DetectResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/dashboard/summary": {
+      "get": {
+        "summary": "Dashboard Summary",
+        "operationId": "dashboard_summary_dashboard_summary_get",
+        "parameters": [
+          {
+            "name": "X-User-Role",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "X-User-Role"
+            }
+          },
+          {
+            "name": "X-User-Station",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "X-User-Station"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DashboardSummaryOut"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/offenders": {
+      "get": {
+        "summary": "Offenders",
+        "operationId": "offenders_offenders_get",
+        "parameters": [
+          {
+            "name": "X-User-Role",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "X-User-Role"
+            }
+          },
+          {
+            "name": "X-User-Station",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "X-User-Station"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/OffenderClusterOut"
+                  },
+                  "title": "Response Offenders Offenders Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/graph": {
+      "get": {
+        "summary": "Graph",
+        "operationId": "graph_graph_get",
+        "parameters": [
+          {
+            "name": "X-User-Role",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "X-User-Role"
+            }
+          },
+          {
+            "name": "X-User-Station",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "X-User-Station"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GraphOut"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/suspects/{suspect_id}": {
+      "get": {
+        "summary": "Suspect Dossier",
+        "operationId": "suspect_dossier_suspects__suspect_id__get",
+        "parameters": [
+          {
+            "name": "suspect_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "title": "Suspect Id"
+            }
+          },
+          {
+            "name": "X-User-Role",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "X-User-Role"
+            }
+          },
+          {
+            "name": "X-User-Station",
+            "in": "header",
+            "required": false,
+            "schema": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "X-User-Station"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SuspectDossierOut"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CrimeCategoryCount": {
+        "properties": {
+          "crime_category": {
+            "type": "string",
+            "title": "Crime Category"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "crime_category",
+          "count"
+        ],
+        "title": "CrimeCategoryCount"
+      },
+      "DashboardSummaryOut": {
+        "properties": {
+          "total_firs": {
+            "type": "integer",
+            "title": "Total Firs"
+          },
+          "total_suspects": {
+            "type": "integer",
+            "title": "Total Suspects"
+          },
+          "total_clusters": {
+            "type": "integer",
+            "title": "Total Clusters"
+          },
+          "total_syndicates": {
+            "type": "integer",
+            "title": "Total Syndicates"
+          },
+          "by_crime_category": {
+            "items": {
+              "$ref": "#/components/schemas/CrimeCategoryCount"
+            },
+            "type": "array",
+            "title": "By Crime Category"
+          },
+          "by_station": {
+            "items": {
+              "$ref": "#/components/schemas/StationCount"
+            },
+            "type": "array",
+            "title": "By Station"
+          }
+        },
+        "type": "object",
+        "required": [
+          "total_firs",
+          "total_suspects",
+          "total_clusters",
+          "total_syndicates",
+          "by_crime_category",
+          "by_station"
+        ],
+        "title": "DashboardSummaryOut"
+      },
+      "DetectResponse": {
+        "properties": {
+          "clusters_created": {
+            "type": "integer",
+            "title": "Clusters Created"
+          },
+          "syndicates_flagged": {
+            "type": "integer",
+            "title": "Syndicates Flagged"
+          },
+          "inter_district_mo_edges": {
+            "type": "integer",
+            "title": "Inter District Mo Edges"
+          }
+        },
+        "type": "object",
+        "required": [
+          "clusters_created",
+          "syndicates_flagged",
+          "inter_district_mo_edges"
+        ],
+        "title": "DetectResponse"
+      },
+      "GraphLink": {
+        "properties": {
+          "source": {
+            "type": "string",
+            "title": "Source"
+          },
+          "target": {
+            "type": "string",
+            "title": "Target"
+          },
+          "type": {
+            "type": "string",
+            "title": "Type"
+          }
+        },
+        "type": "object",
+        "required": [
+          "source",
+          "target",
+          "type"
+        ],
+        "title": "GraphLink"
+      },
+      "GraphNode": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "label": {
+            "type": "string",
+            "title": "Label"
+          },
+          "type": {
+            "type": "string",
+            "title": "Type"
+          },
+          "meta": {
+            "type": "object",
+            "title": "Meta"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "label",
+          "type"
+        ],
+        "title": "GraphNode"
+      },
+      "GraphOut": {
+        "properties": {
+          "nodes": {
+            "items": {
+              "$ref": "#/components/schemas/GraphNode"
+            },
+            "type": "array",
+            "title": "Nodes"
+          },
+          "links": {
+            "items": {
+              "$ref": "#/components/schemas/GraphLink"
+            },
+            "type": "array",
+            "title": "Links"
+          }
+        },
+        "type": "object",
+        "required": [
+          "nodes",
+          "links"
+        ],
+        "title": "GraphOut"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "IngestItem": {
+        "properties": {
+          "raw_text": {
+            "type": "string",
+            "title": "Raw Text"
+          },
+          "station_id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Station Id"
+          }
+        },
+        "type": "object",
+        "required": [
+          "raw_text"
+        ],
+        "title": "IngestItem"
+      },
+      "IngestRequest": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/components/schemas/IngestItem"
+            },
+            "type": "array",
+            "title": "Items"
+          }
+        },
+        "type": "object",
+        "required": [
+          "items"
+        ],
+        "title": "IngestRequest"
+      },
+      "IngestResponse": {
+        "properties": {
+          "ingested": {
+            "items": {
+              "$ref": "#/components/schemas/IngestResultItem"
+            },
+            "type": "array",
+            "title": "Ingested"
+          },
+          "failed": {
+            "items": {
+              "type": "object"
+            },
+            "type": "array",
+            "title": "Failed"
+          }
+        },
+        "type": "object",
+        "required": [
+          "ingested",
+          "failed"
+        ],
+        "title": "IngestResponse"
+      },
+      "IngestResultItem": {
+        "properties": {
+          "fir_id": {
+            "type": "integer",
+            "title": "Fir Id"
+          },
+          "fir_number": {
+            "type": "string",
+            "title": "Fir Number"
+          },
+          "station_id": {
+            "type": "integer",
+            "title": "Station Id"
+          },
+          "crime_category": {
+            "type": "string",
+            "title": "Crime Category"
+          },
+          "extraction_source": {
+            "type": "string",
+            "title": "Extraction Source"
+          },
+          "suspects_extracted": {
+            "type": "integer",
+            "title": "Suspects Extracted"
+          }
+        },
+        "type": "object",
+        "required": [
+          "fir_id",
+          "fir_number",
+          "station_id",
+          "crime_category",
+          "extraction_source",
+          "suspects_extracted"
+        ],
+        "title": "IngestResultItem"
+      },
+      "OffenderClusterOut": {
+        "properties": {
+          "canonical_id": {
+            "type": "string",
+            "title": "Canonical Id"
+          },
+          "primary_name": {
+            "type": "string",
+            "title": "Primary Name"
+          },
+          "linked_fir_ids": {
+            "items": {
+              "type": "integer"
+            },
+            "type": "array",
+            "title": "Linked Fir Ids"
+          },
+          "districts_involved": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Districts Involved"
+          },
+          "confidence_score": {
+            "type": "number",
+            "title": "Confidence Score"
+          },
+          "match_reasons": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Match Reasons"
+          },
+          "syndicate_flag": {
+            "type": "boolean",
+            "title": "Syndicate Flag"
+          }
+        },
+        "type": "object",
+        "required": [
+          "canonical_id",
+          "primary_name",
+          "linked_fir_ids",
+          "districts_involved",
+          "confidence_score",
+          "match_reasons",
+          "syndicate_flag"
+        ],
+        "title": "OffenderClusterOut"
+      },
+      "StationCount": {
+        "properties": {
+          "station_id": {
+            "type": "integer",
+            "title": "Station Id"
+          },
+          "station_name": {
+            "type": "string",
+            "title": "Station Name"
+          },
+          "count": {
+            "type": "integer",
+            "title": "Count"
+          }
+        },
+        "type": "object",
+        "required": [
+          "station_id",
+          "station_name",
+          "count"
+        ],
+        "title": "StationCount"
+      },
+      "StationOut": {
+        "properties": {
+          "id": {
+            "type": "integer",
+            "title": "Id"
+          },
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "district": {
+            "type": "string",
+            "title": "District"
+          },
+          "zone": {
+            "type": "string",
+            "title": "Zone"
+          },
+          "state": {
+            "type": "string",
+            "title": "State"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "district",
+          "zone",
+          "state"
+        ],
+        "title": "StationOut"
+      },
+      "SuspectDossierOut": {
+        "properties": {
+          "suspect_id": {
+            "type": "integer",
+            "title": "Suspect Id"
+          },
+          "name": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Name"
+          },
+          "aliases": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Aliases"
+          },
+          "phone_numbers": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Phone Numbers"
+          },
+          "vehicle_numbers": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Vehicle Numbers"
+          },
+          "physical_description": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Physical Description"
+          },
+          "associated_fir_ids": {
+            "items": {
+              "type": "integer"
+            },
+            "type": "array",
+            "title": "Associated Fir Ids"
+          },
+          "cluster": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/OffenderClusterOut"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "type": "object",
+        "required": [
+          "suspect_id",
+          "name",
+          "aliases",
+          "phone_numbers",
+          "vehicle_numbers",
+          "physical_description",
+          "associated_fir_ids",
+          "cluster"
+        ],
+        "title": "SuspectDossierOut"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      }
+    }
+  }
+}

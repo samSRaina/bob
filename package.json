@@ -1,0 +1,20 @@
+{
+  "name": "bob-ai-hackathon-cyber-elevate",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Bob Engine — FIR Intelligence & Crime Pattern Detector (root orchestration)",
+  "scripts": {
+    "db:up": "docker compose up -d postgres",
+    "db:down": "docker compose down",
+    "backend:install": "cd src/backend && python -m venv .venv && .venv/Scripts/pip install -r requirements.txt",
+    "backend:dev": "cd src/backend && uvicorn app.main:app --reload --port 8010",
+    "frontend:install": "cd src/frontend && bun install",
+    "frontend:dev": "cd src/frontend && bun run dev",
+    "seed": "cd src/backend && python -m app.seed",
+    "detect": "cd src/backend && python -m app.seed --detect-only",
+    "dev": "concurrently -k -n DB,API,WEB -c green,blue,magenta \"npm run db:up\" \"npm run backend:dev\" \"npm run frontend:dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}

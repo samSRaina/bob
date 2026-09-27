@@ -1,47 +1,22 @@
 # Source Code
 
-Place all your project's source code in this folder.
-
-## Structure Guidelines
-
-Organize your code logically. Here are common patterns — use whatever fits
-your project:
-
-### Web Application
 ```
 src/
-  backend/        ← API server code
-  frontend/       ← UI code
-  shared/         ← Shared utilities/types
+  backend/    FastAPI service (SQLModel + PostgreSQL). Entity resolution, MO
+              similarity, graph building, RBAC, and the Bob extraction client
+              all live under backend/app/. See backend/app/main.py for the
+              app entrypoint.
+  frontend/   React 19 + TypeScript (Vite, Bun). A deliberately bare, unstyled
+              prototype dashboard: dashboard stats, the flagged repeat-offender
+              list, and the interactive syndicate graph.
+  openapi.json  Generated API contract (backend/export_openapi.py) - the
+              frontend's typed client (frontend/src/api/schema.d.ts) is
+              generated from this file via `bunx openapi-typescript`.
+  .env.example  Every environment variable the backend reads, with dummy
+              values. Copy to .env and fill in real values - .env is
+              git-ignored.
 ```
 
-### Data / AI Project
-```
-src/
-  data/           ← Data ingestion / preprocessing
-  models/         ← ML model code
-  api/            ← Serving layer
-  notebooks/      ← Jupyter notebooks (exploration)
-```
-
-### CLI / Script-based Tool
-```
-src/
-  cli/            ← CLI entry points
-  lib/            ← Core logic
-  utils/          ← Helpers
-```
-
-## Important Files to Include
-
-- `requirements.txt` or `package.json` — dependency manifest
-- `.env.example` — template for environment variables (NEVER commit `.env`)
-- Any database migration files
-- Configuration files
-
-## What NOT to Include in src/
-
-- `.env` files with real secrets
-- Large binary files (use Git LFS or link externally)
-- `node_modules/` or `venv/` (these are in `.gitignore`)
-- Build artifacts (`dist/`, `build/`, `__pycache__/`)
+See [`../docs/setup-guide.md`](../docs/setup-guide.md) for exact install/run
+commands and [`../docs/architecture.md`](../docs/architecture.md) for how the
+pieces fit together.

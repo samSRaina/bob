@@ -1,15 +1,14 @@
-https://youtu.be/your-demo-video-link-here
+NOT YET RECORDED
 
-Replace the URL above with a link to your demo video.
+This is a placeholder, not a real video link. I (the AI assistant) cannot record
+or narrate a screen-capture video, so this step still needs a human. Before
+submitting, record a 3-5 minute video showing the app running (see the Quick
+Demo walkthrough in docs/setup-guide.md — role switching + the syndicate graph
+click-through make a strong demo) and replace this file's content with the
+real URL.
 
 Accepted platforms:
   - YouTube (public or unlisted)
   - Loom (https://www.loom.com/share/...)
   - IBM Box (https://ibm.box.com/s/...)
   - Google Drive (set to "Anyone with the link can view")
-
-Video requirements:
-  - Length: 3–5 minutes maximum
-  - Must show the application running (not just slides)
-  - Should walk through at least one key feature end-to-end
-  - Audio narration strongly recommended
