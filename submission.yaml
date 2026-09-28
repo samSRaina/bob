@@ -46,7 +46,7 @@ submission:
     - "Transliteration-aware identity linking (e.g. 'Mohd. Aslam' / 'Mohammad Aslaam' / 'M. Aslam' resolve to one person)"
     - "No-name suspects still link, via shared identifiers/description alone"
     - "Server-side RBAC (Station Officer / District SP / State DGP) enforced in the query layer on every read, not cosmetically in the UI"
-    - "Interactive criminal-syndicate graph with click-to-dossier"
+    - "Interactive criminal-syndicate graph with click-to-dossier, in a modern Tailwind dashboard UI with light/dark theme"
 
   tech_stack:
     languages: ["Python", "TypeScript"]
@@ -70,10 +70,9 @@ submission:
     extracted via the deterministic fallback parser instead of Bob live —
     see docs/setup-guide.md for detail. The extraction contract is
     identical either way, so a confirmed endpoint requires no code change.
-    RBAC uses a demo-grade role switcher (no login/auth), the frontend is
-    intentionally unstyled, and the earlier copilot/real-time-alerting
-    scope was deliberately cut to keep the core pipeline fully working
-    end-to-end.
+    RBAC uses a demo-grade role switcher (no login/auth), and the earlier
+    copilot/real-time-alerting scope was deliberately cut to keep the core
+    pipeline fully working end-to-end.
 
 # =============================================================================
 # ARTIFACT LOCATIONS

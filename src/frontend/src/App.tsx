@@ -16,16 +16,20 @@ export default function App() {
   }
 
   return (
-    <div>
+    <div className="min-h-screen bg-slate-50 dark:bg-slate-950">
       <Navbar onAuthChange={handleAuthChange} />
-      <hr />
-      <main>
+
+      <main className="mx-auto max-w-7xl space-y-6 px-4 py-6 sm:px-6 lg:px-8">
         <DashboardSummary refreshKey={refreshKey} />
-        <hr />
         <RepeatOffenderList refreshKey={refreshKey} />
-        <hr />
         <CrimeGraphView refreshKey={refreshKey} onSelectSuspect={setSelectedSuspectId} />
       </main>
+
+      <footer className="mx-auto max-w-7xl px-4 py-8 text-center text-xs text-slate-400 sm:px-6 lg:px-8 dark:text-slate-600">
+        Bob Engine — IBM Bob AI Hackathon x NFSU, Problem Statement #10. IBM Bob is used as the FIR extraction
+        copilot; every downstream engine (entity resolution, MO clustering, RBAC) is deterministic.
+      </footer>
+
       <SuspectSidePanel suspectId={selectedSuspectId} onClose={() => setSelectedSuspectId(null)} />
     </div>
   );

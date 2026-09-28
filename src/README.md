@@ -6,9 +6,9 @@ src/
               similarity, graph building, RBAC, and the Bob extraction client
               all live under backend/app/. See backend/app/main.py for the
               app entrypoint.
-  frontend/   React 19 + TypeScript (Vite, Bun). A deliberately bare, unstyled
-              prototype dashboard: dashboard stats, the flagged repeat-offender
-              list, and the interactive syndicate graph.
+  frontend/   React 19 + TypeScript (Vite, Bun), styled with Tailwind CSS.
+              Dashboard stats, the flagged repeat-offender list, and the
+              interactive syndicate graph, with a light/dark theme toggle.
   openapi.json  Generated API contract (backend/export_openapi.py) - the
               frontend's typed client (frontend/src/api/schema.d.ts) is
               generated from this file via `bunx openapi-typescript`.

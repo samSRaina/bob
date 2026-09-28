@@ -58,6 +58,9 @@ statistics, the flagged offender list, and an interactive syndicate graph. See
   RBAC) is deterministic by design, so the whole pipeline is auditable.
 - **Interactive syndicate graph** — click any suspect node to open a full dossier
   with their cluster's confidence, districts involved, and match reasons.
+- **Modern, polished dashboard UI** — Tailwind-based design system, light/dark
+  theme with persistence, confidence bars, evidence badges, and an animated
+  slide-over dossier panel.
 
 ---
 
@@ -165,8 +168,6 @@ Dashboard: `http://localhost:5199` · API docs: `http://localhost:8010/docs`
   earlier, broader design so the core pipeline — ingest, link, explain, scope —
   is fully built and fully working end-to-end, rather than partially building a
   larger surface.
-- **Frontend is intentionally unstyled** — a functional prototype, not a
-  polished UI. Scope decision, not an oversight.
 - **100 sample FIRs are synthetic**, built on the real, public CCTNS/NCRB FIR
   e-format schema (not scraped or fabricated real citizen case data) — see
   `src/backend/app/data/generate_seed_firs.py`.

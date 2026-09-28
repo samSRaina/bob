@@ -4,7 +4,7 @@
 
 ```mermaid
 graph TD
-    UI["React Dashboard (bare/unstyled prototype)"] -->|"REST + X-User-Role / X-User-Station"| REST[FastAPI REST]
+    UI["React Dashboard (Tailwind, light/dark theme)"] -->|"REST + X-User-Role / X-User-Station"| REST[FastAPI REST]
     REST --> SVC["RBAC-scoped service layer<br/>(services/intelligence.py)"]
     SVC --> ING["Ingestion:<br/>Bob extraction, w/ deterministic fallback"]
     SVC --> ENG["Engines: entity resolution,<br/>MO similarity, graph builder"]
@@ -27,7 +27,7 @@ edges," and "build the graph," regardless of how a FIR was ingested.
 
 | Component | Technology | Responsibility |
 |---|---|---|
-| Frontend | React 19 + TypeScript + Vite (Bun) | Bare, unstyled prototype dashboard: station stats, offender list, syndicate graph, RBAC role switcher |
+| Frontend | React 19 + TypeScript + Vite (Bun), Tailwind CSS | Dashboard UI: station stats, offender list, syndicate graph, RBAC role switcher, light/dark theme |
 | Backend API | FastAPI + SQLModel | REST endpoints, RBAC dependency, request/response schemas |
 | Extraction | IBM Bob inference API + a deterministic regex/section parser fallback | Turns a raw digitized FIR document into structured fields |
 | Entity Resolution | RapidFuzz + Double Metaphone + union-find | Links suspects across FIRs by exact identifiers, phonetic/fuzzy name match, and MO edges |

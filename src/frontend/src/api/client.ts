@@ -25,6 +25,19 @@ export function getAuth(): AuthState {
   return currentAuth;
 }
 
+/** The OpenAPI schema (correctly) marks X-User-Role as a required header on every
+ * scoped read, since the backend genuinely 400s without it — so the generated
+ * typed client requires callers to pass it explicitly. The onRequest middleware
+ * below is what actually sets the live header value on the outgoing request, but
+ * this getter keeps every call site's second argument both type-correct AND
+ * accurate (not a dummy placeholder), by reading the same in-memory auth state. */
+export function authHeaders() {
+  return {
+    "X-User-Role": currentAuth.role,
+    ...(currentAuth.stationId !== null ? { "X-User-Station": currentAuth.stationId } : {}),
+  };
+}
+
 export const api = createClient<paths>({ baseUrl: BASE_URL });
 
 api.use({
